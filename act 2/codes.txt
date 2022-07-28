@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FIVE WEBS</title>
+</head>
+	<style>
+		*{
+			background-color:#d5effc;
+		}
+</style>
+
+<body>
+<center>
+<h2><b>✽&nbsp &nbspMY SECOND ACTIVITY&nbsp &nbsp✽<b></h2>
+<h3><strong>Hello! I am Romeo Raymart L. Ramas :)</strong></h3>
+<br>
+<br>
+<h3>FACEBOOK<h3>
+<h4><b>Facebook is where I become aware about what is currently happening, I know you'd agree with that.
+I joined in Facebook since 2014 if I am right. Of course, those era that have passed, I was kind of overshared.
+Like the way I woke up, I shared. I went to this place, I shared. I am eating this, I shared. It's a bit cringey now for me when I
+am reminiscing those days but yet memorable, it was all my growing stages, my journey. Facebook became mean and at the same time 
+worth the time to me. Either I am pissed about someone's post or I have had a good scroll for the day. I am so proud and jubilant of how I experienced 
+such worthy encounters I had in the past years of being a Facebook users. This is my first choice because this is where I became connected to cyberspace.</h4> 
+<br>
+<h3>YOUTUBE<h3>
+<h4><b> I choose Youtube because this is a paramount. As a student, an IT student, I would love to consider Youtube as my harness that keeps supporting me
+until I reach to the top of the mountain that I am climbing. It is indeed suporting me, due to the fact that it enlightens me, it provides such contents from those 
+smart and kind creators who shared their knowledge that were able to helped me, guided me, and taught things that I never expected it was all possible. Youtube is gold. 
+If I do not undestand something, I'll Youtube it! Youtube is free and so is worthy.</b></h4>
+<br>
+<h3>GOOGLE<h3>
+<h4><b>Google, actually Youtube and Google are ties in my choices but I have to separate them in able to reach the needed choices which is 5. So why Google? my answer would be
+very similar to other's answer as expected. Google embodied the information of the world, well in fact, the outer space's infromation too. I cannot imagine how smart
+these people behind of creating such things like this, it is impeccable. Just like how Youtube is essential to me, Google is crucial. Everything I needed to know, to learn and 
+to explore were behind of Google's search bar. How cool is that? if I have questions, here is Google with its prepared notable answers. Google made my life easier. However, 
+I should know which one is a fact or a fallacy, Google is not as always a safe place to everything just like the real world.</b></h4> 
+<br>
+<h3>NETFLIX <3</h3><h5>
+<h4><b> Netflix, muchas gracias!. I chose this because I am really invested on this. Netflix has a lot to offer. I am fond of watching series and movies here, especially
+when the genres are mind-blogging, crime and mystery. I am into that. This is also a life saver to learn languages, this is where I learned how to construct english sentences, I learned
+correct grammars here. Although, I am not that a  hundred percent well-versed in English language, but still my gratitude for all of the masterpieces that Netflix has taught me and satisfied me. Credits to those
+people of making every art released on Netflix.</b></h4> 
+<br>
+<h3>SHOPEE</h3>
+<h4><b> OK BUDOL TIMEEEE!!! Shopee made my pocket empty lmao. I chose this because I did not know I cna buy things that are really make my life much easier. One of its
+advantage is that it is bound for me, who doesn't want to go outside and find what am I going to buy or what I need. Here's Shopee, just scroll or search then here it is, a budol
+that will make my pocket even my e-wallet empty as usual. Nonetheless, I am thankful for the peopple behind this app, for making this kind of shopping platform to public,
+it is indeed helpful amidst pandemic. What I want to sure is I hope those riders, hardworking riders get their deserved salaries and fair treatment. They are those people who 
+carried Shopee since then and now.</b></h4>
+
+<table class="center">
+<table border="1px">
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>SAUCES</th>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>FACEBOOK</td>
+	<td><a href="https://web.facebook.com/RAMRAYROM/" target=_"blank">FACEBOOK</a></td>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>YOUTUBE</td>
+	<td><a href="https://www.youtube.com/" target=_"blank">YOUTUBE</a></td>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>GOOGLE</td>
+	<td><a href="https://www.google.com/search?q=cats&sxsrf=APq-WBs_A2LwCnxJ2bEPQzA5d3ICh47qEA:1649153379058&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj-y9qK1_z2AhXjGjQIHUfTDz0Q_AUoAXoECAIQAw&biw=1366&bih=663&dpr=1" target=_"blank">GOOGLE</a></td>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>NETFLIX</td>
+	<td><a href="https://www.netflix.com/ph/" target=_"blank">NETFLIX</a></td>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>SHOPEE</td>
+	<td><a href="https://shopee.ph/" target=_"blank">SHOPEE</a></td>
+</tr>
+</center>
+</body>
+</html>
+	
